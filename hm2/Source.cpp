@@ -6,9 +6,9 @@ using namespace std;
 class MAN // ������
 {
 public:
-	float growth = 170.2;
+	float growth = 169.2;
 	string hair_color = "brown";
-	string name = "Angelina";
+	string name = "Maria";
 	string gender = "woman";
 	int age = 18;
 	string laugh;
@@ -70,11 +70,11 @@ public:
 class MOBILE_PHONE // ��������� �������
 {
 public:
-	string colot_phone = "white";
+	string colot_phone = "silver";
 	string brand = "iphone";
 	bool case_phone = true;
 	double prise = 25999; //$
-	int count_contact = 32;
+	int count_contact = 34;
 	string call;
 	void PhoneCall()
 	{
